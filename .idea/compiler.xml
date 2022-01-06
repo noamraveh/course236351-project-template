@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="course236351-atomic-broadcast.protos" target="15" />
+      <module name="course236351-atomic-broadcast.protos.main" target="15" />
+      <module name="course236351-atomic-broadcast.protos.test" target="15" />
+      <module name="course236351-atomic-broadcast.server" target="15" />
+      <module name="course236351-atomic-broadcast.server.main" target="15" />
+      <module name="course236351-atomic-broadcast.server.test" target="15" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
